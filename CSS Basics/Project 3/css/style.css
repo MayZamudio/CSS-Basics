@@ -1,0 +1,16 @@
+/* 
+Syntax of CSS Rule
+
+selector {
+  property: value;
+}
+
+  selector- lets us select the content we want to style.
+
+  {}  - declaration box, which begins with a curly brace and ends with a curly brace
+
+  property- indicates the part of the element we want to change
+
+  value- describes how it's changed
+
+*/
